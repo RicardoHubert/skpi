@@ -1,0 +1,126 @@
+[
+    {
+        "name": "nomor",
+        "text": "",
+        "location": [1754, 710],
+        "font_prop": {
+            "file": "@app/fonts/arial.ttf",
+            "size": 50,
+            "align": "center"
+        }
+    },
+    {
+        "name": "nama",
+        "text": "",
+        "location": [1754, 1070],
+        "font_prop": {
+            "file": "@app/fonts/edwardian-script-itc-bold.ttf",
+            "size": 190,
+            "align": "center"
+        }
+    },
+    {
+        "name": "nim",
+        "text": "",
+        "location": [1754, 1120],
+        "font_prop": {
+            "file": "@app/fonts/edwardian-script-itc-bold.ttf",
+            "size": 100,
+            "align": "center"
+        }
+    },
+    {
+        "name": "sebagai",
+        "text": "",
+        "location": [1754, 1350],
+        "font_prop": {
+            "file": "@app/fonts/arialbd.ttf",
+            "size": 72,
+            "align": "center"
+        }
+    },
+    {
+        "name": "judul acara",
+        "text": "",
+        "location": [1754, 1450],
+        "font_prop": {
+            "file": "@app/fonts/arialbd.ttf",
+            "size": 72,
+            "align": "center"
+        }
+    },
+    {
+        "name": "judul acara 2",
+        "text": "",
+        "location": [1754, 1590],
+        "font_prop": {
+            "file": "@app/fonts/arial.ttf",
+            "size": 72,
+            "align": "center"
+        }
+    },
+
+    {
+        "name": "tanggal",
+        "text": "",
+        "location": [1754, 1700],
+        "font_prop": {
+            "file": "@app/fonts/arial.ttf",
+            "size": 48,
+            "align": "center"
+        }
+    },
+    {
+        "name": "ttd",
+        "text": "Hastanti Retno Krisna Sari, S.T., M.M.",
+        "location": [1754, 2050],
+        "font_prop": {
+            "file": "@app/fonts/arialbd.ttf",
+            "size": 48,
+            "align": "center"
+        }
+    },
+    {
+        "name": "jabatan",
+        "text": "WR II (Campus Operation)",
+        "location": [1754, 2100],
+        "font_prop": {
+            "file": "@app/fonts/arial.ttf",
+            "size": 48,
+            "align": "center"
+        }
+    },
+
+    {
+        "name":"Sertifikat",
+        "text": "SERTIFIKAT",
+        "location": [1754, 640],
+        "font_prop": {
+            "file": "@app/fonts/calibrib.ttf",
+            "size": 220,
+            "align": "center"
+        }
+    },
+
+       {
+        "name":"Diberikan kepada ",
+        "text": "Diberikan kepada",
+        "location": [1754, 830],
+        "font_prop": {
+            "file": "@app/fonts/arial.ttf",
+            "size": 48,
+            "align": "center"
+        }
+    },
+       {
+        "name":"Atas partisipasinya sebagai ",
+        "text": "Atas partisipasinya sebagai",
+        "location": [1754, 1230],
+        "font_prop": {
+            "file": "@app/fonts/arial.ttf",
+            "size": 55,
+            "align": "center"
+        }
+    }
+]
+

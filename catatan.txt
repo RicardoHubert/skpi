@@ -1,0 +1,6 @@
+untuk yadcf
+https://github.com/vedmack/yadcf
+
+Select2 pakai AJAX
+https://select2.org/data-sources/ajax
+https://jsfiddle.net/Guruprasad_Rao/t5r65ake/
